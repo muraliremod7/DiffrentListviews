@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Listview</string>
+    <string-array name="array">
+        <item>Android</item>
+        <item>BlackBerry</item>
+        <item>IOS</item>
+        <item>Windows</item>
+        <item>Symboin</item>
+    </string-array>
+</resources>
